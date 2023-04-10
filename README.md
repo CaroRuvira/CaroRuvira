@@ -27,3 +27,4 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un
   :pushpin: My Projects
   </h2>
   <a href = "https://www.youtube.com/watch?v=uyV-fw3TL8M">
+   <img align="center" src="https://github.com/CaroRuvira/CaroRuvira/blob/main/Brainlyportada.png"/>
