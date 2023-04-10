@@ -1,9 +1,4 @@
-<div align="center" display="grid">
-<img width="900px" src="https://raw.githubusercontent.com/javierleandromontenegro/javierleandromontenegro/main/javiergif.gif" alt="Sublime's custom image"/>
-<h3>
- From Argentina :argentina: to :earth_americas:
-</h3>
-</div>
+
 
  
  ## 💫 About Me:
