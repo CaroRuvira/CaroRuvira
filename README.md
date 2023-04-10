@@ -2,9 +2,9 @@
 
  
  ## 💫 About Me:
-I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.<br>If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
+Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un buen diseño y que provean de una experiencia amigable para el usuario. Soy de aprendizaje rápido, y tengo un buen ojo para los detalles.<br> Si estás buscando un desarrollador Fullstack para construir tu próxima aplicación, por favor contactame. Estaré contenta de poder conversar.
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javierleandromontenegro/) 
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-ruvira-1aa2b928/) 
 
 ## 💻 Tech Stack:
 
