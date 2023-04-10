@@ -25,6 +25,5 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un
 <p/>
 <h2>
   :pushpin: My Projects
-  </h2>![Alt text](https://img.youtube.com/vi/uyV-fw3TL8M/0.jpg)]
- (https://www.youtube.com/watch?v=uyV-fw3TL8M)
-
+  </h2>
+  <a href = "https://www.youtube.com/watch?v=uyV-fw3TL8M">
