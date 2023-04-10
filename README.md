@@ -23,4 +23,9 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un
       Carolina Ruvira
     </a>
 <p/>
+<h2>
+  :pushpin: My Projects
+  </h2>
+  <a href="https://main-brainly.vercel.app/">
+      [![Alt text](https://img.youtube.com/vi/uyV-fw3TL8M/0.jpg)](https://www.youtube.com/watch?v=uyV-fw3TL8M)
 
